@@ -1,6 +1,7 @@
 # STORM
 ![Diagram](STORM.png "Workflow Diagram")
-STORM ...
+
+STORM blah blah...
 
 In this repository we present the files needed to reproduce the benchmarking results stated in our paper. 
 
