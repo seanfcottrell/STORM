@@ -8,6 +8,8 @@ In this repository we present the files needed to reproduce the benchmarking res
 # Benchmark Validation Tests
 We provide a .yaml file for setting up a conda environment for STORM. 
 
+Once your workspace is properly set, you can run the tests for each task via the files in the Tests folder (i.e. VerticalIntegration, GeneImputation, etc.) 
+
 # STORM — Environment Setup
 
 ## Installation
@@ -45,5 +47,4 @@ conda activate st-graph-parafac2-cpu
 | Numba | 0.62 | JIT compilation for performance-critical loops |
 | Dask | 2024.11 | Optional parallelism for large datasets |
 
-Once your workspace is properly set, you can run the tests for each task via the files in the Tests folder (i.e. VerticalIntegration, GeneImputation, etc.) 
   
